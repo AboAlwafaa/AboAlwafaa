@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const client = new Discord.Client();
+const client = new Discord.Client(440141438236360705);
 var prefix = "+";
 var adminprefix = 'Y'
 
